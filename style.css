@@ -1,0 +1,36 @@
+
+*body
+ { color: white;
+    padding: 0%;
+    margin: 0%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: url('images/bgcamera.jpg');
+}
+.navbar{
+    display: inline-flex;
+    list-style: none;
+    margin: -15px;
+    
+}
+a{
+    color: white;
+    padding: 2px 10px;
+    background-color:hsl(11deg 100% 62%);
+}
+.content{
+    display: flex;
+    margin: 120px auto;
+
+
+
+}
+.data{
+    margin-top: 15px;
+    width: 320px;
+    color:rgb(238, 236, 231)
+    
+}
+footer{
+    
+
+}
